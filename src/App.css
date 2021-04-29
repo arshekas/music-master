@@ -1,7 +1,16 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
 }
-
+h1,h2,h3,h4,h5
+{
+    font-family: 'Economica';
+}
+h1 {
+  text-align: center;
+  margin: 1rem 0;
+  font-size: 3rem;
+  font-family: 'Original Surfer';
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -34,5 +43,11 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+      font-size: 2.5rem;
   }
 }

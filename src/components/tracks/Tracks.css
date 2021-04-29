@@ -1,0 +1,56 @@
+.tracks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+
+}
+
+.track
+{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: 20px;
+    cursor: pointer;
+}
+.track-image
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.track-text
+{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    position:absolute;
+    width: 290px;
+    text-align: center;
+    bottom: 0px;
+    height: 20px;
+    border-top-left-radius: 250px 100px;
+    border-top-right-radius: 250px 100px;
+}
+.track-icon
+{
+    position: absolute;
+    bottom: 150px;
+    left: 115px;
+    color:black;
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    padding: 10px;
+    opacity: 0.9;
+}
+
+.track-icon .MuiSvgIcon-root {
+    font-size: 60px;
+}
+.track:hover
+{
+    opacity: 0.8;
+}
