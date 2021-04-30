@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/music-master/static/css/main.476e5ed9.chunk.css",
+    "main.css": "/music-master/static/css/main.9de1ab64.chunk.css",
     "main.js": "/music-master/static/js/main.5afaff41.chunk.js",
     "main.js.map": "/music-master/static/js/main.5afaff41.chunk.js.map",
     "runtime-main.js": "/music-master/static/js/runtime-main.cec50c03.js",
@@ -10,14 +10,14 @@
     "static/js/3.7f6ad3e1.chunk.js": "/music-master/static/js/3.7f6ad3e1.chunk.js",
     "static/js/3.7f6ad3e1.chunk.js.map": "/music-master/static/js/3.7f6ad3e1.chunk.js.map",
     "index.html": "/music-master/index.html",
-    "static/css/main.476e5ed9.chunk.css.map": "/music-master/static/css/main.476e5ed9.chunk.css.map",
+    "static/css/main.9de1ab64.chunk.css.map": "/music-master/static/css/main.9de1ab64.chunk.css.map",
     "static/js/2.36468f3a.chunk.js.LICENSE.txt": "/music-master/static/js/2.36468f3a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/music-master/static/media/roboto-condensed.light.d9e440de.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.cec50c03.js",
     "static/js/2.36468f3a.chunk.js",
-    "static/css/main.476e5ed9.chunk.css",
+    "static/css/main.9de1ab64.chunk.css",
     "static/js/main.5afaff41.chunk.js"
   ]
 }
